@@ -8,3 +8,6 @@
 7 print alphabet in reverse
 8 print base 16 numbers
 9 print ascending numbers
+100 print 2 number combo
+101 print 3 digit numbers
+102 Print 2 2-digit numbers
