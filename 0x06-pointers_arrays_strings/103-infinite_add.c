@@ -43,7 +43,7 @@ int a_to_int(char *s)
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
 	int num1, num2, sum, n, digits, i;
-
+	
 	num1 = a_to_int(n1);
 	num2 = a_to_int(n2);
 	sum = num1 + num2;
